@@ -7,4 +7,8 @@
 * A complete RESTful API server
 * MongoDB connection
 
-Few other coming soon...
+## How to run?
+`go run main.go`
+
+## Don't have Go installed?
+Install it from [Here](https://golang.org/doc/install)
