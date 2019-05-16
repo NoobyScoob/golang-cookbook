@@ -2,7 +2,7 @@
 
 ## Includes
 * Basic Web server
-* concurrency patterns in go
+* Concurrency patterns in go
 * Using Mutexs
 * Serving static pages and directories
 * A complete RESTful API server
