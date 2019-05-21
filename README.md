@@ -8,6 +8,7 @@
 * Serving static pages and directories
 * A complete RESTful API server
 * MongoDB connection
+* Priority Queue
 
 ## How to run?
 `go run main.go`
